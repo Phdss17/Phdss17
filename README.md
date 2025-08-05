@@ -22,6 +22,4 @@ Sou estudante de Ciência da Computação. Meu foco principal é construir uma b
 
 
 ### 🔥 Sequência de commits
-<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phdss17&theme=ayu-mirage" alt="streak stats" />
-</div>
