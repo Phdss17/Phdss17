@@ -19,3 +19,9 @@ Sou estudante de Ciência da Computação. Meu foco principal é construir uma b
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Phdss17](https://github-readme-stats.vercel.app/api?username=Phdss17&show_icons=true&theme=default)
+
+
+### 🔥 Sequência de commits
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phdss17&theme=ayu-mirage" alt="streak stats" />
+</div>
