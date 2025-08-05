@@ -17,9 +17,9 @@ Sou estudante de Ciência da Computação. Meu foco principal é construir uma b
 - Fundamentos do desenvolvimento de software
 
 ## 📈 Estatísticas do GitHub
-
+<div align="center">
 ![Estatísticas do GitHub de Phdss17](https://github-readme-stats.vercel.app/api?username=Phdss17&show_icons=true&theme=default)
-
+</div>
 
 ### 🔥 Sequência de commits
 <div align="center">
