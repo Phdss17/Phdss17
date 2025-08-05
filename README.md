@@ -19,13 +19,13 @@ Sou estudante de Ciência da Computação. Meu foco principal é construir uma b
 
 ### Estatísticas do GitHub
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=elizadora&show_icons=true&theme=ayu-mirage" height="150" alt="stats graph" />
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=elizadora&layout=compact&langs_count=8&theme=ayu-mirage" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Phdss17&show_icons=true&theme=ayu-mirage" height="150" alt="stats graph" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=Phdss17&layout=compact&langs_count=8&theme=ayu-mirage" />
     
 </div>
 
 
 ### Sequência de commits
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizadora&theme=ayu-mirage" alt="streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phdss17&theme=ayu-mirage" alt="streak stats" />
 </div>
