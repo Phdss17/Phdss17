@@ -34,7 +34,8 @@ Estou em constante aprimoramento nas seguintes áreas:
 </div>
 
 
-### Sequência de commits
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phdss17&theme=ayu-mirage" alt="streak stats" />
-</div>
+## 🔥 Sequência de Commits
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phdss17&theme=ayu-mirage" alt="streak stats" />
+</p>
