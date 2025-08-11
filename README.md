@@ -10,7 +10,6 @@ Sou estudante de Ciência da Computação. Meu foco principal é construir uma b
     <h1 > Sobre Mim </h1>
 
 - Estudante de Ciência da Computação  
-- Linguagens de programação: C, C++, Java  
 - Interessado em desenvolvimento de software de forma geral  
 - Sempre buscando aprender novas tecnologias e boas práticas  
 </div>
