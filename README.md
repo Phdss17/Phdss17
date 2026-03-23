@@ -19,7 +19,7 @@ Sou estudante de Ciência da Computação. Meu foco principal é construir uma b
 Estou em constante aprimoramento nas seguintes áreas:
 
 ### Linguagens e Tecnologias
-- 💻 **Linguagens:** `C`, `C++`, `Java`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Python`
+- 💻 **Linguagens:** `C`, `C++`, `Java`, `Python`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
 
 ### Habilidades e Fundamentos
 - 🧠 **Resolução de Problemas:** Aprimorando a lógica e o pensamento algorítmico.
